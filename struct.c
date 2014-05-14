@@ -11,7 +11,7 @@ struct SuperPositioning{
 	int* projection;
 	projection = bool* malloc(int N,int N); /* whether dot inside dat field or not */ 
 	/*  Triangle - smth like dat
-	    0 0 0 0 0 0 0 1 0 0 0
+	        0 0 0 0 0 0 0 1 0 0 0
 		0 0 0 0 0 0 0 0 0 0 0 
 		0 0 0 0 0 0 0 0 0 0 0 
 		0 0 0 0 0 0 0 0 0 0 0 
