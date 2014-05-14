@@ -3,7 +3,7 @@ define N = 512
 struct SuperPositioning{
 	bool neg;    /*     +1 or -1      */
 	char angle;  /* 0/81 ... 255/81 almost equals Pi number */
-    float ProjectionSize; /* 0. ... 1. Depending on where it lies on plane or not */
+        float ProjectionSize; /* 0. ... 1. Depending on where it lies on plane or not */
     
 	
 	//int* projectionX; /* 0..512 */
